@@ -1,6 +1,6 @@
 package box.model;
 
-public class Name {
+public class Rock {
     public static void main(String[] args) {
         
     }
