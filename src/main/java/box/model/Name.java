@@ -1,9 +1,7 @@
 package box.model;
 
-public class TestRepo {
+public class Name {
     public static void main(String[] args) {
-
+        
     }
-
-
 }
